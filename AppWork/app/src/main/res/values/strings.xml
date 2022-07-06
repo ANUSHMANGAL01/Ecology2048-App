@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ecology2048</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="down">Down</string>
+    <string name="up">Up</string>
+    <string name="reset">Reset</string>
+    <string name="welcome_to_ecology_2048">Welcome to Ecology 2048</string>
+
+    <color name="blue">#0000FF</color>
+</resources>
