@@ -10,7 +10,8 @@ The video also has the demonstration of the other game made by other team member
 
 Mathew wrote the basic terminal based java code for the game. I modified it according to the needs of the Android Studio. I also made the basic simple layout of the App.
 
-##How to play
+## How to play
+
 If you have Android Studio installed, you can directly run the App from there and make changes as you like it. 
 
 If you want to download the apk file and play on your mobile, go to AppWork -> app -> build -> outputs -> apk -> debug and download the apk file. 
